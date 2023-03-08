@@ -1,8 +1,7 @@
 Bryan Morandi 1351405
 
 # Deliverables [50 pts]
-- [5 pts] Your GitHub account showing that is has been forked from the depaulcdm/springpetclinic repository. This doesn’t actually need an image – I can see it from your repository.
-complete
+- [5 pts] Your GitHub account showing that is has been forked from the depaulcdm/springpetclinic repository. This doesn’t actually need an image – I can see it from your repository. :heavy_check_mark:
 - [5 pts] Your GitHub Actions dashboard showing a successful first build.
 ![Screen Capture #1](figures/successful-first-build.JPG)
 - [5 pts] Your GitHub repository with the readme.md file selected showing the code that you changed to update the badge.
