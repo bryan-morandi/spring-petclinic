@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/bryan/OneDrive/Documents/DePaul Grad School/2022-2023/Winter Quarter/SE 441 - Continuous Delivery and Devops/Homework/hw5bm/spring-petclinic","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
